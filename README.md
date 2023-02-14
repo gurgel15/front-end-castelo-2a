@@ -10,7 +10,7 @@
 
 Link:
 
-[clique aqui] ttps://classroom.google.com/u/0/h
+- [clique aqui (https://classroom.google.com/u/0/h)
 
 - Atualmente estou fazendo o 2 ano do Ensino médio**
 
