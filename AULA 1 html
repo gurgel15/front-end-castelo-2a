@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>AULAS1 - ESTRUTURA BÁSICA</title>
+</head>
+<body>
+    <h1>Aula de progamação Front-end -28/02</h1>
+   <FONT COLOR=#0000CD size=4>
+   <h1>hierarquia de títulos</h1>
+   <h2>hierarquia de títulos</h2>
+   <h3>hierarquia de títulos</h3>
+   <h4>hierarquia de títulos</h4>
+   <h5>hierarquia de títulos</h5>
+   <h6>hierarquia de títulos</h6>
+
+   <hr><!-- Inserir uma linha na horizontal -->
+   <br><!-- Inserir quebra de linha-->
+
+<!--__formatação de texto-->
+    <p>A tag <strong> html </strong> é utilizada para informar ao navegador que tipo de estrutura está
+    sendo construída, podendo ter <strong><mark> títulos,parágrafos, imagens, links, entre outros.</mark></strong></p>
+    <P>existem diversas tags do HTML< mas as principais são: title, meta, head, <body>
+    footer e div.</u></p>
+    <P>dentro dessa tag, é necessário declarar outras duas tags:<em>head  e body.
+    </em></p>
+
+    </body>
