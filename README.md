@@ -4,7 +4,7 @@
 
 - :+1: Meu email de contato  gabriel.gurgel@escola.pr.gov.br
 
-- :+1: meu Email de contato pessoal é gurgel87@gmail.com.br  
+- :+1: meu Email de contato pessoal é 
 
 - Eu estou interresado em aprender a programar novas linguagens.**
 
