@@ -1,0 +1,33 @@
+header {
+    background-color:orangered;
+    padding: 20px;
+
+}
+
+#logo{
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+}
+
+@font-face{
+    font-family:'gagalin';
+    src: url('negrito.otf') format('opentype');
+}
+
+.titulo-principal{
+    posítíon: absolute;
+    top: 13%;
+    left: 30%;
+    transform: translate(-10%; -50%);
+    font-size: 35px;
+    font-family: negrito;
+    /*font-family: 'negrito' , sem serifa;*/
+    /*font-family:barlow;*/
+
+}
+main{
+    width: 940px;
+    margin: auto;
+    
+}
